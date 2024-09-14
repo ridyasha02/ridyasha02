@@ -5,8 +5,7 @@
 <br>
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ridyasha-ray) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ridray2024) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ridyasha02) <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="tryhackme logo"  />
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ridyasha-ray) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ridray2024) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ridyasha02)<a href="https://tryhackme.com/p/ray0210"><img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="tryhackme logo"  /></a>
 <br>
 
 # 💻 Knowledge and Skills:
